@@ -22,7 +22,6 @@ I love to build websites, automate, scrape websites, visualize data...
      alt="jekyll icon"
      width="50" height="50" />
 
-
 ### I’m currently working on 🔭 
 
 - Revising my [dev cheatsheets](https://github.com/MichaelCurrin/dev-cheatsheets/) and [code cookbook](https://github.com/MichaelCurrin/code-cookbook)
@@ -33,7 +32,7 @@ I love to build websites, automate, scrape websites, visualize data...
 ### Read my blogs 📜 
 
 <a href="https://dev.to/michaelcurrin">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Mike's DEV Profile" height="30" width="30">
+  michaelcurrin <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Mike's DEV Profile" height="30" width="30">
 </a>
 
 [https://michaelcurrin.github.io/coding-blog](https://michaelcurrin.github.io/coding-blog/)
