@@ -10,7 +10,7 @@
      width="50" height="50" />
 <img src="https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/javascript/javascript.png"
      alt="javascript icon"
-     width="50" height="50" />     
+     width="50" height="50" />
 <img src="https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/bash/bash.png"
      alt="bash icon"
      width="50" height="50" />
