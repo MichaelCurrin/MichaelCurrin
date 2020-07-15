@@ -2,7 +2,7 @@
 > "Data genie", "open sourcerer" and code junkie
 
 
-### Skills
+### Skills 🎓
 
 <img src="https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/linux/linux.png"
      alt="shell icon"
@@ -21,14 +21,14 @@
      width="50" height="50" />
 
 
-### 🔭 I’m currently working on
+### I’m currently working on 🔭 
 
 - Revising my [dev cheatsheets](https://github.com/MichaelCurrin/dev-cheatsheets/) and [code cookbook](https://github.com/MichaelCurrin/code-cookbook)
 - Writing better blog posts
 - How can I use this...? https://simpleicons.org/ 
 - Better Jekyll sites and designing websites
 
-### 📜 Read my blogs
+### Read my blogs 📜 
 
 <a href="https://dev.to/michaelcurrin">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Mike's DEV Profile" height="30" width="30">
@@ -36,7 +36,7 @@
 
 [https://michaelcurrin.github.io/coding-blog](https://michaelcurrin.github.io/coding-blog/)
 
-### 🌱 I’m currently learning
+### I’m currently learning 🌱
 
 <img src="https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/go/go.png"
      alt="go icon"
