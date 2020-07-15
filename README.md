@@ -1,4 +1,9 @@
-## Software Engineer
+## MichaelCurrin - Software Engineer
+> Data genie, open sourcerer and code junkie.
+
+<a href="https://dev.to/michaelcurrin">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Mike's DEV Profile" height="30" width="30">
+</a>
 
 ### Skills
 
@@ -22,7 +27,8 @@
 ### 🔭 I’m currently working on
 
 - Revising my [dev cheatsheets](https://github.com/MichaelCurrin/dev-cheatsheets/) and [code cookbook](https://github.com/MichaelCurrin/code-cookbook)
-- Writing better blog posts
+- Writing better blog posts - [coding-blog](https://michaelcurrin.github.io/coding-blog/) and [dev.to/michaelcurrin](https://dev.to/michaelcurrin)
+- How can I use this...? https://simpleicons.org/ 
 - Better Jekyll sites and designing websites
 
 
