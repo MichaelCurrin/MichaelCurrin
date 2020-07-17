@@ -1,10 +1,12 @@
-### Hi, I am a Software Engineer
-> "Data genie", maker, "open sourcerer" and code junkie
+### Hi, I make software
+> I am a "Data genie", maker, "open sourcerer" and code junkie
 
-I love to build websites, automate, scrape websites, visualize data and teach and learn.
+I am a fullstack software engineer. I love to build websites, automate, scrape websites, visualize data. I like to teach and learn others both at community events and online.
 
 
 ### Skills 🎓
+
+My experiences covers backend (databases, APIs), frontend (webpage design and JS) and security, containers and deployment pipelines.
 
 <img src="https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/linux/linux.png"
      alt="shell icon"
@@ -32,7 +34,9 @@ I love to build websites, automate, scrape websites, visualize data and teach an
 ### Read my blogs 📜 
 
 <a href="https://dev.to/michaelcurrin">
-  michaelcurrin <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Mike's DEV Profile" height="30" width="30">
+  <button>
+     <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Mike's DEV Profile" height="30" width="30">@michaelcurrin 
+  </button>
 </a>
 
 [https://michaelcurrin.github.io/coding-blog](https://michaelcurrin.github.io/coding-blog/)
