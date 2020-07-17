@@ -34,12 +34,18 @@ My experiences covers backend (databases, APIs), frontend (webpage design and JS
 ### Blogs 📜 
 > These are my words and thoughts
 
+<ul>
+<li>
 <a href="https://dev.to/michaelcurrin">
     <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Mike's DEV Profile" height="30" width="30">@michaelcurrin 
 </a>
+</li>
+<li>
 
-[![Coding blog GH Pages](https://img.shields.io/static/v1?label=GH%20Pages%20blog&message=MichaelCurrin.github.io/coding-blog/&color=green&style=for-the-badge)](https://michaelcurrin.github.io/coding-blog/)
+[![Coding blog GH Pages](https://img.shields.io/static/v1?label=GH%20Pages&message=MichaelCurrin.github.io/coding-blog/&color=green)](https://michaelcurrin.github.io/coding-blog/)
 
+</li>
+</ul>
 
 ### I’m currently learning 🌱
 
