@@ -34,9 +34,7 @@ My experiences covers backend (databases, APIs), frontend (webpage design and JS
 ### Read my blogs 📜 
 
 <a href="https://dev.to/michaelcurrin">
-  <button>
-     <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Mike's DEV Profile" height="30" width="30">@michaelcurrin 
-  </button>
+    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Mike's DEV Profile" height="30" width="30">@michaelcurrin 
 </a>
 
 [https://michaelcurrin.github.io/coding-blog](https://michaelcurrin.github.io/coding-blog/)
