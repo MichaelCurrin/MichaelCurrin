@@ -51,7 +51,7 @@ My experiences covers backend (databases, APIs), frontend (webpage design and JS
 
 <img src="https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/go/go.png"
      alt="go icon"
-     width="50" height="50" />
+     width="40" height="40" />
 
 
 <!--
