@@ -1,7 +1,7 @@
-### Software Engineer
-> "Data genie", "open sourcerer" and code junkie
+### Hi, I am a Software Engineer
+> "Data genie", maker, "open sourcerer" and code junkie
 
-I love to build websites, automate, scrape websites, visualize data...
+I love to build websites, automate, scrape websites, visualize data and teach and learn.
 
 
 ### Skills 🎓
