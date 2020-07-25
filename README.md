@@ -60,6 +60,13 @@ My experiences covers backend (databases, APIs), frontend (webpage design and JS
      title="Go"
      width="40" height="40" />
 
+### What is this profile README thing? 🤔
+
+Around July 2020, GitHub made this a public feature. Create a repo named after your username (matching case exactly) and create a `README.md` file in it. Then go to your GitHub profile and you'll see your README appear there ✨.
+
+- [MichaelCurrin/MichaelCurrin](https://github.com/MichaelCurrin/MichaelCurrin/) repo where this README lives
+- GitHub topic: [profile-readme](https://github.com/topics/profile-readme)
+- Tutorial: [How To Create A GitHub Profile README](https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme)
 
 <!--
 **MichaelCurrin/MichaelCurrin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
