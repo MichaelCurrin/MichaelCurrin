@@ -45,6 +45,7 @@ My experiences covers backend (databases, APIs), frontend (webpage design and JS
     <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Mike's DEV Profile" height="30" width="30">@michaelcurrin 
 </a>
 </li>
+
 <li>
 
 [![Coding blog GH Pages](https://img.shields.io/static/v1?label=GH%20Pages&message=MichaelCurrin.github.io/coding-blog/&color=green)](https://michaelcurrin.github.io/coding-blog/)
@@ -56,6 +57,7 @@ My experiences covers backend (databases, APIs), frontend (webpage design and JS
 
 <img src="https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/go/go.png"
      alt="go icon"
+     title="Go"
      width="40" height="40" />
 
 
