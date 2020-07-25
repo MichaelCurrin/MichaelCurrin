@@ -10,18 +10,23 @@ My experiences covers backend (databases, APIs), frontend (webpage design and JS
 
 <img src="https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/linux/linux.png"
      alt="shell icon"
+     title="Linux"
      width="40" height="40" />
 <img src="https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/python/python.png"
      alt="python icon"
+     title="Python"
      width="40" height="40" />
 <img src="https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/javascript/javascript.png"
      alt="javascript icon"
+     title="JavaScript"
      width="40" height="40" />
 <img src="https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/bash/bash.png"
      alt="bash icon"
+     title="Bash - shell scripting"
      width="40" height="40" />
 <img src="https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/jekyll/jekyll.png"
      alt="jekyll icon"
+     title="Jekyll - static site generator"
      width="40" height="40" />
 
 ### I'm currently working on 🔭 
