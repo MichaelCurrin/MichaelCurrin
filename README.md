@@ -31,9 +31,10 @@ My experiences covers backend (databases, APIs), frontend (webpage design and JS
 ### I'm currently working on 🔭 
 
 - Revising my [dev cheatsheets](https://github.com/MichaelCurrin/dev-cheatsheets/) and [code cookbook](https://github.com/MichaelCurrin/code-cookbook)
-- Writing better blog posts
+- Writing more and better blog posts
 - How can I use this...? https://simpleicons.org/ 
 - Better Jekyll sites and designing websites
+- Make a [Self-updating README](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/) - based on [github.com/simonw/simonw](https://github.com/simonw/simonw)
 
 ### Blogs 📜 
 
