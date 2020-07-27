@@ -1,8 +1,7 @@
-### Hi, I am a software maker
+## Hi, I am a software maker
 > I am a "Data genie", maker, "open sourcerer" and code junkie
 
 I am a fullstack software engineer. I love to build websites, automate, scrape websites, visualize data. I like to teach and learn others both at community events and online.
-
 
 ### Skills 🎓
 
@@ -37,7 +36,6 @@ My experiences covers backend (databases, APIs), frontend (webpage design and JS
 - Better Jekyll sites and designing websites
 
 ### Blogs 📜 
-> These are my words and thoughts
 
 <ul>
 <li>
