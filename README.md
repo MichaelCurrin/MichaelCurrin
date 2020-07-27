@@ -35,6 +35,7 @@ My experiences covers backend (databases, APIs), frontend (webpage design and JS
 - How can I use this...? https://simpleicons.org/ 
 - Better Jekyll sites and designing websites
 - Make a [Self-updating README](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/) - based on [github.com/simonw/simonw](https://github.com/simonw/simonw)
+- How can I use GitHub projects to manage my projects at a high-level or just bookmark repos and gists there? Rather than maintaing a list.
 
 ### Blogs 📜 
 
