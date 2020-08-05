@@ -28,11 +28,20 @@ My experiences covers backend (databases, APIs), frontend (webpage design and JS
      title="Jekyll - static site generator"
      width="40" height="40" />
 
+### Projects 💼
+
+If you're interested to see my showcase of some my best projects, see my Pinned Repositories a bit further down on my profile.
+
+I like to make quickstarts which can be used as templates to make websites, such as with React, Vue, MkdDocs, Jekyll or Docsify. See my GitHub [quickstart](https://github.com/MichaelCurrin?tab=repositories&q=quickstart&type=&language=) projects.
+
 ### I'm currently working on 🔭 
+
+Here are projects or ideas which I have been working on in the last few months.
 
 - Revising my [dev cheatsheets](https://github.com/MichaelCurrin/dev-cheatsheets/) and [code cookbook](https://github.com/MichaelCurrin/code-cookbook)
 - Writing more and better blog posts
-- How can I use this...? https://simpleicons.org/ 
+- Improving by [Badge generator](https://github.com/MichaelCurrin/badge-generator) project without overengineering - React or Jekyll might be overkill and need a lot of refactoring before it is useful but Moustache templating and a bit of duplication of code working well.
+- How can I use this in my website projects...? https://simpleicons.org/ 
 - Better Jekyll sites and designing websites
 - Make a [Self-updating README](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/) - based on [github.com/simonw/simonw](https://github.com/simonw/simonw)
 - How can I use GitHub projects to manage my projects at a high-level or just bookmark repos and gists there? Rather than maintaing a list.
@@ -60,7 +69,9 @@ My experiences covers backend (databases, APIs), frontend (webpage design and JS
      title="Go"
      width="40" height="40" />
 
-### What is this profile README thing? 🤔
+### What is this README profile thing? 🤔
+
+This section is about this very page you are looking at.
 
 Around July 2020, GitHub made this a public feature. Create a repo named after your username (matching case exactly) and create a `README.md` file in it. Then go to your GitHub profile and you'll see your README appear there ✨.
 
