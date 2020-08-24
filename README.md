@@ -70,6 +70,11 @@ Here are projects or ideas which I have been working on in the last few months.
      alt="go icon"
      title="Go"
      width="40" height="40" />
+<img src="https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/typescript/typescript.png"
+     alt="go icon"
+     title="TypeScript"
+     width="40" height="40" />
+
 
 ### What is this README profile thing? 🤔
 
