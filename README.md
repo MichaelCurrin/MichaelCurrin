@@ -7,23 +7,23 @@ I am a fullstack software engineer. I love to build websites, automate, scrape w
 
 My experiences covers backend (databases, APIs), frontend (webpage design and JS) and security, containers and deployment pipelines.
 
-<img src="https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/linux/linux.png"
+<img src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png"
      alt="shell icon"
      title="Linux"
      width="40" height="40" />
-<img src="https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/python/python.png"
+<img src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"
      alt="python icon"
      title="Python"
      width="40" height="40" />
-<img src="https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/javascript/javascript.png"
+<img src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"
      alt="javascript icon"
      title="JavaScript"
      width="40" height="40" />
-<img src="https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/bash/bash.png"
+<img src="https://raw.githubusercontent.com/github/explore/master/topics/bash/bash.png"
      alt="bash icon"
      title="Bash - shell scripting"
      width="40" height="40" />
-<img src="https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/jekyll/jekyll.png"
+<img src="https://raw.githubusercontent.com/github/explore/master/topics/jekyll/jekyll.png"
      alt="jekyll icon"
      title="Jekyll - static site generator"
      width="40" height="40" />
@@ -41,9 +41,10 @@ Here are projects or ideas which I have been working on in the last few months.
 - Revising my [dev cheatsheets](https://github.com/MichaelCurrin/dev-cheatsheets/) and [code cookbook](https://github.com/MichaelCurrin/code-cookbook)
 - Writing more and better blog posts
 - Improving by [Badge generator](https://github.com/MichaelCurrin/badge-generator) project without overengineering - React or Jekyll might be overkill and need a lot of refactoring before it is useful but Moustache templating and a bit of duplication of code working well.
-- SimpleIcons
+- Icons
      - How can I use this in my website projects? As external source but also I can download the icons I care about as a central reference https://simpleicons.org/ Add it to my cheatsheats - including color for eahc
-     - Compare with GH Topic icons which are more detailed
+     - Compare with GH Topic icons which are more detailed. [repo](https://github.com/github/explore/tree/master/topics)
+     - Maybe make a generator which can generate both.
 - Better Jekyll sites and designing websites
 - Make a [Self-updating README](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/) - based on [github.com/simonw/simonw](https://github.com/simonw/simonw)
 - How can I use GitHub projects to manage my projects at a high-level or just bookmark repos and gists there? Rather than maintaing a list.
@@ -66,11 +67,11 @@ Here are projects or ideas which I have been working on in the last few months.
 
 ### I’m currently learning 🌱
 
-<img src="https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/go/go.png"
+<img src="https://raw.githubusercontent.com/github/explore/master/topics/go/go.png"
      alt="go icon"
      title="Go"
      width="40" height="40" />
-<img src="https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/typescript/typescript.png"
+<img src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png"
      alt="go icon"
      title="TypeScript"
      width="40" height="40" />
