@@ -38,9 +38,9 @@ I like to make quickstarts which can be used as templates to make websites, such
 
 Here are projects or ideas which I have been working on in the last few months.
 
-- Revising my [dev cheatsheets](https://github.com/MichaelCurrin/dev-cheatsheets/) and [code cookbook](https://github.com/MichaelCurrin/code-cookbook)
+- Revising my [Dev Cheatsheets](https://github.com/MichaelCurrin/dev-cheatsheets/) and [Code Cookbook](https://github.com/MichaelCurrin/code-cookbook)
 - Writing more and better blog posts
-- Improving by [Badge generator](https://github.com/MichaelCurrin/badge-generator) project without overengineering - React or Jekyll might be overkill and need a lot of refactoring before it is useful but Moustache templating and a bit of duplication of code working well.
+- Improving my [Badge generator](https://github.com/MichaelCurrin/badge-generator) project without overengineering - React or Jekyll might be overkill and need a lot of refactoring before it is useful but Moustache templating and a bit of duplication of code working well.
 - Icons
      - How can I use this in my website projects? As external source but also I can download the icons I care about as a central reference https://simpleicons.org/ Add it to my cheatsheats - including color for eahc
      - Compare with GH Topic icons which are more detailed. [repo](https://github.com/github/explore/tree/master/topics)
