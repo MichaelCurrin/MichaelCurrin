@@ -7,6 +7,8 @@ I am a fullstack software engineer. I love to build websites, automate, scrape w
 
 My experiences covers backend (databases, APIs), frontend (webpage design and JS) and security, containers and deployment pipelines.
 
+<!-- Find more icons here! https://github.com/github/explore/tree/master/topics -->
+
 <img src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png"
      alt="shell icon"
      title="Linux"
@@ -14,6 +16,10 @@ My experiences covers backend (databases, APIs), frontend (webpage design and JS
 <img src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"
      alt="python icon"
      title="Python"
+     width="40" height="40" />
+<img src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png"
+     alt="node icon"
+     title="Node.js"
      width="40" height="40" />
 <img src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"
      alt="javascript icon"
@@ -27,7 +33,15 @@ My experiences covers backend (databases, APIs), frontend (webpage design and JS
      alt="jekyll icon"
      title="Jekyll - static site generator"
      width="40" height="40" />
-
+<img src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png"
+     alt="sql icon"
+     title="SQL"
+     width="40" height="40" />
+<img src="https://raw.githubusercontent.com/github/explore/master/topics/actions/actions.png"
+     alt="actions icon"
+     title="GH Actions"
+     width="40" height="40" />
+     
 ### Projects 💼
 
 If you're interested to see my showcase of some my best projects, see my Pinned Repositories a bit further down on my profile.
