@@ -90,6 +90,10 @@ Here are projects or ideas which I have been working on in the last few months.
      title="TypeScript"
      width="40" height="40" />
 
+### Stats!
+
+![github-readme-stats](https://github-readme-stats.vercel.app/api?username=MichaelCurrin)
+
 
 ### What is this README profile thing? 🤔
 
