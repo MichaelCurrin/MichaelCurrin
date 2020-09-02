@@ -92,7 +92,7 @@ Here are projects or ideas which I have been working on in the last few months.
 
 ### Stats!
 
-![github-readme-stats](https://github-readme-stats.vercel.app/api?username=MichaelCurrin)
+[![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=MichaelCurrin&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### What is this README profile thing? 🤔
