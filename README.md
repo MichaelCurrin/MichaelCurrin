@@ -85,6 +85,8 @@ Here are projects or ideas which I have been working on in the last few months.
 
 ### I’m currently learning 🌱
 
+I don't have a focus - I switch between them depending on what I want to build or what articles I find.
+
 <img src="https://raw.githubusercontent.com/github/explore/master/topics/go/go.png"
      alt="go icon"
      title="Go"
@@ -101,10 +103,11 @@ Here are projects or ideas which I have been working on in the last few months.
      alt="react icon"
      title="React"
      width="40" height="40" />    
- <img src="https://raw.githubusercontent.com/github/explore/master/topics/terraform/terraform.png"
+<img src="https://raw.githubusercontent.com/github/explore/master/topics/terraform/terraform.png"
      alt="terraform icon"
      title="Terraform"
      width="40" height="40" />  
+     
      
 ### Stats!
 
