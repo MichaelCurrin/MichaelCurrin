@@ -7,7 +7,11 @@ I am a fullstack software engineer. I love to build websites, automate, scrape w
 
 My experiences covers backend (databases, APIs), frontend (webpage design and JS) and security, containers and deployment pipelines.
 
-<!-- Find more icons here! https://github.com/github/explore/tree/master/topics -->
+<!-- 
+     Find more icons here! https://github.com/github/explore/tree/master/topics 
+     TODO generate this using code
+     TODO use badges with icons
+-->
 
 <img src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png"
      alt="shell icon"
@@ -46,7 +50,7 @@ My experiences covers backend (databases, APIs), frontend (webpage design and JS
 
 If you're interested to see my showcase of some my best projects, see my Pinned Repositories a bit further down on my profile.
 
-I like to make quickstarts which can be used as templates to make websites, such as with React, Vue, MkdDocs, Jekyll or Docsify. See my GitHub [quickstart](https://github.com/MichaelCurrin?tab=repositories&q=quickstart&type=&language=) projects.
+I like to make quickstarts which can be used as templates to make websites, such as with React, Vue, MkDocs, Jekyll or Docsify. See my GitHub [quickstart](https://github.com/MichaelCurrin?tab=repositories&q=quickstart&type=&language=) projects.
 
 ### I'm currently working on 🔭 
 
@@ -89,7 +93,19 @@ Here are projects or ideas which I have been working on in the last few months.
      alt="go icon"
      title="TypeScript"
      width="40" height="40" />
-
+<img src="https://raw.githubusercontent.com/github/explore/master/topics/vue/vue.png"
+     alt="vue icon"
+     title="Vue"
+     width="40" height="40" />
+<img src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png"
+     alt="react icon"
+     title="React"
+     width="40" height="40" />    
+ <img src="https://raw.githubusercontent.com/github/explore/master/topics/terraform/terraform.png"
+     alt="terraform icon"
+     title="Terraform"
+     width="40" height="40" />  
+     
 ### Stats!
 
 [![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=MichaelCurrin&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
