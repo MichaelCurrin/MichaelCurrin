@@ -108,9 +108,13 @@ I don't have a focus - I switch between them depending on what I want to build o
      title="Terraform"
      width="40" height="40" />
      
-### Stats!
+### My repo contributions
 
 [![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=MichaelCurrin&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+### My gists
+
+https://michaelcurrin.github.io/gist-viewer/
 
 
 ### What is this README profile thing? 🤔
