@@ -102,12 +102,11 @@ I don't have a focus - I switch between them depending on what I want to build o
 <img src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png"
      alt="react icon"
      title="React"
-     width="40" height="40" />    
+     width="40" height="40" />
 <img src="https://raw.githubusercontent.com/github/explore/master/topics/terraform/terraform.png"
      alt="terraform icon"
      title="Terraform"
-     width="40" height="40" />  
-     
+     width="40" height="40" />
      
 ### Stats!
 
