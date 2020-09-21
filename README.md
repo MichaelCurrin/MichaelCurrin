@@ -73,7 +73,7 @@ Here are projects or ideas which I have been working on in the last few months.
 - Make a [Self-updating README](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/) - based on [github.com/simonw/simonw](https://github.com/simonw/simonw)
 - How can I use GitHub projects to manage my projects at a high-level or just bookmark repos and gists there? Rather than maintaing a list.
 
-</summary>
+</details>
 
 ### Blogs 📜 
 
