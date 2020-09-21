@@ -21,14 +21,6 @@ My experiences covers backend (databases, APIs), frontend (webpage design and JS
      alt="python icon"
      title="Python"
      width="40" height="40" />
-<img src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png"
-     alt="node icon"
-     title="Node.js"
-     width="40" height="40" />
-<img src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"
-     alt="javascript icon"
-     title="JavaScript"
-     width="40" height="40" />
 <img src="https://raw.githubusercontent.com/github/explore/master/topics/bash/bash.png"
      alt="bash icon"
      title="Bash - shell scripting"
@@ -45,7 +37,18 @@ My experiences covers backend (databases, APIs), frontend (webpage design and JS
      alt="actions icon"
      title="GH Actions"
      width="40" height="40" />
-     
+
+Also experienced with these but want to put more attention on Python for now.
+
+<img src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png"
+     alt="node icon"
+     title="Node.js"
+     width="40" height="40" />
+<img src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"
+     alt="javascript icon"
+     title="JavaScript"
+     width="40" height="40" />
+
 ### Projects 💼
 
 If you're interested to see my showcase of some my best projects, see my Pinned Repositories a bit further down on my profile.
@@ -56,6 +59,9 @@ I like to make quickstarts which can be used as templates to make websites, such
 
 Here are projects or ideas which I have been working on in the last few months.
 
+<details>
+<summary>Read more</summary>
+     
 - Revising my [Dev Cheatsheets](https://github.com/MichaelCurrin/dev-cheatsheets/) and [Code Cookbook](https://github.com/MichaelCurrin/code-cookbook)
 - Writing more and better blog posts
 - Improving my [Badge generator](https://github.com/MichaelCurrin/badge-generator) project without overengineering - React or Jekyll might be overkill and need a lot of refactoring before it is useful but Moustache templating and a bit of duplication of code working well.
@@ -66,6 +72,8 @@ Here are projects or ideas which I have been working on in the last few months.
 - Better Jekyll sites and designing websites
 - Make a [Self-updating README](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/) - based on [github.com/simonw/simonw](https://github.com/simonw/simonw)
 - How can I use GitHub projects to manage my projects at a high-level or just bookmark repos and gists there? Rather than maintaing a list.
+
+</summary>
 
 ### Blogs 📜 
 
@@ -91,6 +99,12 @@ I don't have a focus - I switch between them depending on what I want to build o
      alt="go icon"
      title="Go"
      width="40" height="40" />
+<img src="https://raw.githubusercontent.com/github/explore/master/topics/terraform/terraform.png"
+     alt="terraform icon"
+     title="Terraform"
+     width="40" height="40" />  
+   
+<!--
 <img src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png"
      alt="go icon"
      title="TypeScript"
@@ -103,10 +117,7 @@ I don't have a focus - I switch between them depending on what I want to build o
      alt="react icon"
      title="React"
      width="40" height="40" />
-<img src="https://raw.githubusercontent.com/github/explore/master/topics/terraform/terraform.png"
-     alt="terraform icon"
-     title="Terraform"
-     width="40" height="40" />
+-->
      
 ### My repo contributions
 
@@ -119,6 +130,9 @@ https://michaelcurrin.github.io/gist-viewer/
 
 ### What is this README profile thing? 🤔
 
+<details>
+<summary>Read more</summary>
+     
 This section is about this very page you are looking at.
 
 Around July 2020, GitHub made this a public feature. Create a repo named after your username (matching case exactly) and create a `README.md` file in it. Then go to your GitHub profile and you'll see your README appear there ✨.
@@ -126,6 +140,8 @@ Around July 2020, GitHub made this a public feature. Create a repo named after y
 - [MichaelCurrin/MichaelCurrin](https://github.com/MichaelCurrin/MichaelCurrin/) repo where this README lives
 - GitHub topic: [profile-readme](https://github.com/topics/profile-readme)
 - Tutorial: [How To Create A GitHub Profile README](https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme)
+
+</details>
 
 <!--
 **MichaelCurrin/MichaelCurrin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
