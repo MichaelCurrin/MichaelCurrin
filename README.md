@@ -1,5 +1,5 @@
 ## Hi, I am a software maker
-> I am a "Data genie", maker, "open sourcerer" and code junkie
+> I am a "Data genie" and "open sourcerer"
 
 I am a fullstack software engineer. I love to build websites, automate, scrape websites, visualize data. I like to teach and learn others both at community events and online.
 
