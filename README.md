@@ -7,49 +7,31 @@ I love to build websites and automate tasks using the power of Python or JavaScr
 
 ### Skills 🎓
 
-My experiences covers backend (databases, APIs), frontend (webpage design and JS) and security, containers and deployment pipelines.
+My experience covers backend (databases, APIs), frontend (webpage design and JS) and security, containers and deployment pipelines.
 
-<!-- 
-     Find more icons here! https://github.com/github/explore/tree/master/topics 
-     TODO generate this using code
-     TODO use badges with icons
--->
+Some technologies and tools I like to work with:
 
-<img src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png"
-     alt="shell icon"
-     title="Linux"
-     width="40" height="40" />
-<img src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"
-     alt="python icon"
-     title="Python"
-     width="40" height="40" />
-<img src="https://raw.githubusercontent.com/github/explore/master/topics/bash/bash.png"
-     alt="bash icon"
-     title="Bash - shell scripting"
-     width="40" height="40" />
-<img src="https://raw.githubusercontent.com/github/explore/master/topics/jekyll/jekyll.png"
-     alt="jekyll icon"
-     title="Jekyll - static site generator"
-     width="40" height="40" />
-<img src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png"
-     alt="sql icon"
-     title="SQL"
-     width="40" height="40" />
-<img src="https://raw.githubusercontent.com/github/explore/master/topics/actions/actions.png"
-     alt="actions icon"
-     title="GH Actions"
-     width="40" height="40" />
+![Linux](https://img.shields.io/badge/OS-Linux-2bbc8a?logo=linux&logoColor=white)
+![macOS](https://img.shields.io/badge/OS-macOS-2bbc8a?logo=apple&logoColor=white)
 
-Also experienced with these but want to put more attention on Python for now.
+![Bash](https://img.shields.io/badge/Code-Bash-2bbc8a?logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/Code-Python-2bbc8a?logo=python&logoColor=white)
+![Jekyll](https://img.shields.io/badge/Code-Jekyll-2bbc8a?logo=jekyll&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/Code-PostgreSQL-2bbc8a?logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/Code-MongoDB-2bbc8a?logo=mongodb&logoColor=white)
+![Terraform](https://img.shields.io/badge/Code-Terraform-2bbc8a?logo=terraform&logoColor=white)
+![Node](https://img.shields.io/badge/Code-Node-2bbc8a?logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-2bbc8a?logo=javascript&logoColor=white)
 
-<img src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png"
-     alt="node icon"
-     title="Node.js"
-     width="40" height="40" />
-<img src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"
-     alt="javascript icon"
-     title="JavaScript"
-     width="40" height="40" />
+![GitHub Actions](https://img.shields.io/badge/Tools-GitHub_Actions-2bbc8a?logo=github-actions&logoColor=white)
+![Netlify](https://img.shields.io/badge/Tools-Netlify-2bbc8a?logo=netlify&logoColor=white)
+![AWS](https://img.shields.io/badge/Tools-AWS-2bbc8a?logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Tools-Docker-2bbc8a?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Tools-Kubernetes-2bbc8a?logo=kubernetes&logoColor=white)
+
+### I’m currently learning 🌱
+
+![Go](https://img.shields.io/badge/Code-Go-2bbc8a?logo=go&logoColor=white)
 
 ### Projects 💼
 
@@ -93,33 +75,7 @@ Here are projects or ideas which I have been working on in the last few months.
 </li>
 </ul>
 
-### I’m currently learning 🌱
 
-I don't have a focus - I switch between them depending on what I want to build or what articles I find.
-
-<img src="https://raw.githubusercontent.com/github/explore/master/topics/go/go.png"
-     alt="go icon"
-     title="Go"
-     width="40" height="40" />
-<img src="https://raw.githubusercontent.com/github/explore/master/topics/terraform/terraform.png"
-     alt="terraform icon"
-     title="Terraform"
-     width="40" height="40" />  
-   
-<!--
-<img src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png"
-     alt="go icon"
-     title="TypeScript"
-     width="40" height="40" />
-<img src="https://raw.githubusercontent.com/github/explore/master/topics/vue/vue.png"
-     alt="vue icon"
-     title="Vue"
-     width="40" height="40" />
-<img src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png"
-     alt="react icon"
-     title="React"
-     width="40" height="40" />
--->
      
 ### My repo contributions
 
@@ -144,15 +100,3 @@ Around July 2020, GitHub made this a public feature. Create a repo named after y
 - Tutorial: [How To Create A GitHub Profile README](https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme)
 
 </details>
-
-<!--
-**MichaelCurrin/MichaelCurrin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
