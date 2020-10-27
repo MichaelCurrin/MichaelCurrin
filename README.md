@@ -5,6 +5,14 @@ I am a Senior Software Engineer at 2U - covering the fullstack of database (SQL/
 
 I love to build websites and automate tasks using the power of Python or JavaScript or another tool that is right for the job. I think Go might be the next big thing. I like to teach and learn from others both at community events and online.
 
+### Blogs and writing 📜 
+
+[![dev.to - @MichaelCurrin](https://img.shields.io/static/v1?label=dev.to&message=%40MichaelCurrin&color=2bbc8a&logo=dev.to&logoColor=white)](https://dev.to/michaelcurrin)
+[![Coding blog GH Pages](https://img.shields.io/static/v1?label=blog&message=MichaelCurrin.github.io/coding-blog/&color=2bbc8a)](https://michaelcurrin.github.io/coding-blog/)
+[![Dev Cheatsheets](https://img.shields.io/static/v1?label=site&message=MichaelCurrin.github.io/dev-cheatsheets/&color=2bbc8a)](https://michaelcurrin.github.io/dev-cheatsheets/)
+[![Code Cookbook](https://img.shields.io/static/v1?label=repo&message=MichaelCurrin/code-cookcook&color=2bbc8a)](https://github.com/MichaelCurrin/code-cookcook)
+
+
 ### Skills 🎓
 
 My experience covers backend (databases, APIs), frontend (webpage design and JS) and security, containers and deployment pipelines.
@@ -31,13 +39,24 @@ My experience covers backend (databases, APIs), frontend (webpage design and JS)
      
 ### GitHub Stats
 
-[![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=MichaelCurrin&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/MichaelCurrin">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelCurrin&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"
+    title="Top languages" alt="Top languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=MichaelCurrin&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"
+    title="Profile stats" alt="Profile stats" />
+</a>
+
+Stats generated with: https://github.com/anuraghazra/github-readme-stats
+
 
 ### Projects 💼
 
 If you're interested to see my showcase of some my best projects, see my Pinned Repositories a bit further down on my profile.
 
-I like to make quickstarts which can be used as templates to make websites, such as with React, Vue, MkDocs, Jekyll or Docsify. See my GitHub [quickstart](https://github.com/MichaelCurrin?tab=repositories&q=quickstart&type=&language=) projects.
+I like to make quickstarts which can be used as templates to make websites, such as with React, Vue, MkDocs, Jekyll or Docsify. See my [quickstart](https://github.com/MichaelCurrin?tab=repositories&q=quickstart&type=&language=) projects on GitHub.
+
+My gists are available on a one-page site: https://michaelcurrin.github.io/gist-viewer/
 
 ### I'm currently working on 🔭 
 
@@ -46,7 +65,7 @@ Here are projects or ideas which I have been working on in the last few months.
 <details>
 <summary>Read more</summary>
      
-- Revising my [Dev Cheatsheets](https://github.com/MichaelCurrin/dev-cheatsheets/) and [Code Cookbook](https://github.com/MichaelCurrin/code-cookbook)
+- Always writing and improving on [Dev Cheatsheets](https://github.com/MichaelCurrin/dev-cheatsheets/) and [Code Cookbook](https://github.com/MichaelCurrin/code-cookbook)
 - Writing more and better blog posts
 - Improving my [Badge generator](https://github.com/MichaelCurrin/badge-generator) project without overengineering - React or Jekyll might be overkill and need a lot of refactoring before it is useful but Moustache templating and a bit of duplication of code working well.
 - Icons
@@ -58,28 +77,6 @@ Here are projects or ideas which I have been working on in the last few months.
 - How can I use GitHub projects to manage my projects at a high-level or just bookmark repos and gists there? Rather than maintaing a list.
 
 </details>
-
-### Blogs 📜 
-
-<ul>
-<li>
-<a href="https://dev.to/michaelcurrin">
-    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Mike's DEV Profile" height="30" width="30">@michaelcurrin 
-</a>
-</li>
-
-<li>
-
-[![Coding blog GH Pages](https://img.shields.io/static/v1?label=GH%20Pages&message=MichaelCurrin.github.io/coding-blog/&color=green)](https://michaelcurrin.github.io/coding-blog/)
-
-</li>
-</ul>
-
-
-### My gists
-
-https://michaelcurrin.github.io/gist-viewer/
-
 
 ### What is this README profile thing? 🤔
 
