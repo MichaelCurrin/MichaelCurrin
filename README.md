@@ -9,8 +9,6 @@ I love to build websites and automate tasks using the power of Python or JavaScr
 
 My experience covers backend (databases, APIs), frontend (webpage design and JS) and security, containers and deployment pipelines.
 
-Some technologies and tools I like to work with:
-
 ![Linux](https://img.shields.io/badge/OS-Linux-2bbc8a?logo=linux&logoColor=white)
 ![macOS](https://img.shields.io/badge/OS-macOS-2bbc8a?logo=apple&logoColor=white)
 
@@ -75,9 +73,8 @@ Here are projects or ideas which I have been working on in the last few months.
 </li>
 </ul>
 
-
      
-### My repo contributions
+### GitHub Stats
 
 [![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=MichaelCurrin&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
