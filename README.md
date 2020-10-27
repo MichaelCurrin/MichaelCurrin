@@ -11,7 +11,6 @@ My experience covers backend (databases, APIs), frontend (webpage design and JS)
 
 ![Linux](https://img.shields.io/badge/OS-Linux-2bbc8a?logo=linux&logoColor=white)
 ![macOS](https://img.shields.io/badge/OS-macOS-2bbc8a?logo=apple&logoColor=white)
-
 ![Bash](https://img.shields.io/badge/Code-Bash-2bbc8a?logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/Code-Python-2bbc8a?logo=python&logoColor=white)
 ![Jekyll](https://img.shields.io/badge/Code-Jekyll-2bbc8a?logo=jekyll&logoColor=white)
@@ -20,7 +19,6 @@ My experience covers backend (databases, APIs), frontend (webpage design and JS)
 ![Terraform](https://img.shields.io/badge/Code-Terraform-2bbc8a?logo=terraform&logoColor=white)
 ![Node](https://img.shields.io/badge/Code-Node-2bbc8a?logo=node.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-2bbc8a?logo=javascript&logoColor=white)
-
 ![GitHub Actions](https://img.shields.io/badge/Tools-GitHub_Actions-2bbc8a?logo=github-actions&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Tools-Netlify-2bbc8a?logo=netlify&logoColor=white)
 ![AWS](https://img.shields.io/badge/Tools-AWS-2bbc8a?logo=amazon-aws&logoColor=white)
@@ -30,6 +28,10 @@ My experience covers backend (databases, APIs), frontend (webpage design and JS)
 ### I’m currently learning 🌱
 
 ![Go](https://img.shields.io/badge/Code-Go-2bbc8a?logo=go&logoColor=white)
+     
+### GitHub Stats
+
+[![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=MichaelCurrin&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Projects 💼
 
@@ -73,10 +75,6 @@ Here are projects or ideas which I have been working on in the last few months.
 </li>
 </ul>
 
-     
-### GitHub Stats
-
-[![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=MichaelCurrin&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### My gists
 
