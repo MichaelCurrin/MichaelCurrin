@@ -30,6 +30,7 @@ Python is first love and preferred language - see my [Python repos on GitHub](ht
 ![GitHub Actions](https://img.shields.io/badge/Tools-GitHub_Actions-2bbc8a?logo=github-actions&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Tools-Netlify-2bbc8a?logo=netlify&logoColor=white)
 ![AWS](https://img.shields.io/badge/Tools-AWS-2bbc8a?logo=amazon-aws&logoColor=white)
+![Datadog](https://img.shields.io/badge/Tools-Datadog-2bbc8a?logo=datadog&logoColor=white)
 ![Docker](https://img.shields.io/badge/Tools-Docker-2bbc8a?logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Tools-Kubernetes-2bbc8a?logo=kubernetes&logoColor=white)
 
