@@ -67,14 +67,14 @@ Here are projects or ideas which I have been working on in the last few months.
      
 - Always writing and improving on [Dev Cheatsheets](https://github.com/MichaelCurrin/dev-cheatsheets/) and [Code Cookbook](https://github.com/MichaelCurrin/code-cookbook)
 - Writing more and better blog posts
-- Improving my [Badge generator](https://github.com/MichaelCurrin/badge-generator) project without overengineering - React or Jekyll might be overkill and need a lot of refactoring before it is useful but Moustache templating and a bit of duplication of code working well.
+- Improving my [Badge generator](https://github.com/MichaelCurrin/badge-generator) project 
 - Icons
      - How can I use this in my website projects? As external source but also I can download the icons I care about as a central reference https://simpleicons.org/ Add it to my cheatsheats - including color for eahc
      - Compare with GH Topic icons which are more detailed. [repo](https://github.com/github/explore/tree/master/topics)
      - Maybe make a generator which can generate both.
 - Better Jekyll sites and designing websites
 - Make a [Self-updating README](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/) - based on [github.com/simonw/simonw](https://github.com/simonw/simonw)
-- How can I use GitHub projects to manage my projects at a high-level or just bookmark repos and gists there? Rather than maintaing a list.
+- How can I use GitHub projects to manage my projects at a high-level or just bookmark repos and gists there? Rather than maintaining a list.
 
 </details>
 
