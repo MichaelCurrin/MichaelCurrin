@@ -24,7 +24,7 @@ Python is first love and preferred language - see my [Python repos on GitHub](ht
 ![Jekyll](https://img.shields.io/badge/Code-Jekyll-2bbc8a?logo=jekyll&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-2bbc8a?logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/Database-MongoDB-2bbc8a?logo=mongodb&logoColor=white)
-![Node](https://img.shields.io/badge/Code-Node-2bbc8a?logo=node.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Code-Node.js-2bbc8a?logo=node.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-2bbc8a?logo=javascript&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Code-Terraform-2bbc8a?logo=terraform&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/Tools-GitHub_Actions-2bbc8a?logo=github-actions&logoColor=white)
