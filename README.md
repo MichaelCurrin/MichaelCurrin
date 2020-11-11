@@ -48,7 +48,9 @@ Python is first love and preferred language - see my [Python repos on GitHub](ht
     title="Profile stats" alt="Profile stats" />
 </a>
 
-Stats generated with: https://github.com/anuraghazra/github-readme-stats
+The `s` score is better than `A+` 🤷‍♂️. 
+
+Stats generated using [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats).
 
 
 ### Projects 💼
