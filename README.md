@@ -15,7 +15,7 @@ I love to build websites and automate tasks using the power of Python or JavaScr
 
 ### Skills 🎓
 
-Python is my first love and preferred language - see my [Python repos on GitHub](https://github.com/MichaelCurrin?tab=repositories&q=&type=&language=python). My experience covers backend (databases, APIs), frontend (webpage design and JS) and security, containers and deployment pipelines.
+Python is my first love and preferred language - see my [Python repos on GitHub](https://github.com/MichaelCurrin?tab=repositories&q=&type=&language=python). My experience covers backend (databases, APIs), frontend (webpage design and JS), security, containers and deployment pipelines.
 
 ![Linux](https://img.shields.io/badge/OS-Linux-2bbc8a?logo=linux&logoColor=white)
 ![macOS](https://img.shields.io/badge/OS-macOS-2bbc8a?logo=apple&logoColor=white)
