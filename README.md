@@ -10,12 +10,12 @@ I love to build websites and automate tasks using the power of Python or JavaScr
 [![dev.to - @MichaelCurrin](https://img.shields.io/static/v1?label=dev.to&message=%40MichaelCurrin&color=2bbc8a&logo=dev.to&logoColor=white)](https://dev.to/michaelcurrin)
 [![Coding blog GH Pages](https://img.shields.io/static/v1?label=blog&message=MichaelCurrin.github.io/coding-blog/&color=2bbc8a)](https://michaelcurrin.github.io/coding-blog/)
 [![Dev Cheatsheets](https://img.shields.io/static/v1?label=site&message=MichaelCurrin.github.io/dev-cheatsheets/&color=2bbc8a)](https://michaelcurrin.github.io/dev-cheatsheets/)
-[![Code Cookbook](https://img.shields.io/static/v1?label=repo&message=MichaelCurrin/code-cookbook&color=2bbc8a&logo=github)](https://github.com/MichaelCurrin/code-cookcook)
+[![Code Cookbook](https://img.shields.io/static/v1?label=site&message=MichaelCurrin.github.io/code-cookbook/&color=2bbc8a&logo=github)](https://michaelcurrin.github.io/code-cookbook/)
 [![Learn to Code](https://img.shields.io/static/v1?label=repo&message=MichaelCurrin/learn-to-code&color=2bbc8a&logo=github)](https://github.com/MichaelCurrin/learn-to-code)
 
 ### Skills 🎓
 
-Python is first love and preferred language - see my [Python repos on GitHub](https://github.com/MichaelCurrin?tab=repositories&q=&type=&language=python). My experience covers backend (databases, APIs), frontend (webpage design and JS) and security, containers and deployment pipelines.
+Python is my first love and preferred language - see my [Python repos on GitHub](https://github.com/MichaelCurrin?tab=repositories&q=&type=&language=python). My experience covers backend (databases, APIs), frontend (webpage design and JS) and security, containers and deployment pipelines.
 
 ![Linux](https://img.shields.io/badge/OS-Linux-2bbc8a?logo=linux&logoColor=white)
 ![macOS](https://img.shields.io/badge/OS-macOS-2bbc8a?logo=apple&logoColor=white)
