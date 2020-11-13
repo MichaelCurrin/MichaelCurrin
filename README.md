@@ -1,7 +1,7 @@
 ## Hi, I am a software maker
 > I am a "Data genie" and "open sourcerer"
 
-I am a Senior Software Engineer at 2U - covering the fullstack of database (SQL/Mongo) to web apps, infrastructure and deploy tooling. 
+I am a Senior Software Engineer at 2U with fullstack skills.
 
 I love to build websites and automate tasks using the power of Python or JavaScript or another tool that is right for the job. I think Go might be the next big thing. I like to teach and learn from others both at community events and online.
 
