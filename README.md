@@ -10,7 +10,7 @@ I love to build websites and automate tasks using the power of Python or JavaScr
 [![dev.to - @MichaelCurrin](https://img.shields.io/static/v1?label=dev.to&message=%40MichaelCurrin&color=2bbc8a&logo=dev.to&logoColor=white)](https://dev.to/michaelcurrin)
 [![Coding blog GH Pages](https://img.shields.io/static/v1?label=blog&message=MichaelCurrin.github.io/coding-blog/&color=2bbc8a)](https://michaelcurrin.github.io/coding-blog/)
 [![Dev Cheatsheets](https://img.shields.io/static/v1?label=site&message=MichaelCurrin.github.io/dev-cheatsheets/&color=2bbc8a)](https://michaelcurrin.github.io/dev-cheatsheets/)
-[![Code Cookbook](https://img.shields.io/static/v1?label=site&message=MichaelCurrin.github.io/code-cookbook/&color=2bbc8a&logo=github)](https://michaelcurrin.github.io/code-cookbook/)
+[![Code Cookbook](https://img.shields.io/static/v1?label=site&message=MichaelCurrin.github.io/code-cookbook/&color=2bbc8a)](https://michaelcurrin.github.io/code-cookbook/)
 [![Learn to Code](https://img.shields.io/static/v1?label=repo&message=MichaelCurrin/learn-to-code&color=2bbc8a&logo=github)](https://github.com/MichaelCurrin/learn-to-code)
 
 ### Skills 🎓
@@ -19,6 +19,7 @@ Python is my first love and preferred language - see my [Python repos on GitHub]
 
 ![Linux](https://img.shields.io/badge/OS-Linux-2bbc8a?logo=linux&logoColor=white)
 ![macOS](https://img.shields.io/badge/OS-macOS-2bbc8a?logo=apple&logoColor=white)
+
 ![Bash](https://img.shields.io/badge/Code-Bash-2bbc8a?logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/Code-Python-2bbc8a?logo=python&logoColor=white)
 ![Jekyll](https://img.shields.io/badge/Code-Jekyll-2bbc8a?logo=jekyll&logoColor=white)
@@ -26,18 +27,20 @@ Python is my first love and preferred language - see my [Python repos on GitHub]
 ![MongoDB](https://img.shields.io/badge/Database-MongoDB-2bbc8a?logo=mongodb&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Code-Node.js-2bbc8a?logo=node.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-2bbc8a?logo=javascript&logoColor=white)
-![Terraform](https://img.shields.io/badge/Code-Terraform-2bbc8a?logo=terraform&logoColor=white)
+
+![Docker](https://img.shields.io/badge/Tools-Docker-2bbc8a?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Tools-Kubernetes-2bbc8a?logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Tools-Terraform-2bbc8a?logo=terraform&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/Tools-GitHub_Actions-2bbc8a?logo=github-actions&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Tools-Netlify-2bbc8a?logo=netlify&logoColor=white)
 ![AWS](https://img.shields.io/badge/Tools-AWS-2bbc8a?logo=amazon-aws&logoColor=white)
 ![Datadog](https://img.shields.io/badge/Tools-Datadog-2bbc8a?logo=datadog&logoColor=white)
-![Docker](https://img.shields.io/badge/Tools-Docker-2bbc8a?logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Tools-Kubernetes-2bbc8a?logo=kubernetes&logoColor=white)
 
 ### I’m currently learning 🌱
 
 ![Go](https://img.shields.io/badge/Code-Go-2bbc8a?logo=go&logoColor=white)
-     
+
+
 ### GitHub Stats
 
 <a href="https://github.com/MichaelCurrin">
@@ -48,7 +51,7 @@ Python is my first love and preferred language - see my [Python repos on GitHub]
     title="Profile stats" alt="Profile stats" />
 </a>
 
-The `s` score is better than `A+` 🤷‍♂️. 
+The `S` score is better than `A+` 🤷‍♂️. 
 
 Stats generated using [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats).
 
@@ -86,9 +89,9 @@ Here are projects or ideas which I have been working on in the last few months.
 <details>
 <summary>Read more</summary>
      
-This section is about this very page you are looking at.
+This page you are reading is a profile readme. Around July 2020, GitHub made this a public feature.
 
-Around July 2020, GitHub made this a public feature. Create a repo named after your username (matching case exactly) and create a `README.md` file in it. Then go to your GitHub profile and you'll see your README appear there ✨.
+To make one, create a repo named after your username (matching case exactly) and create a `README.md` file in it. Then go to your GitHub profile and you'll see your README appear there ✨.
 
 - [MichaelCurrin/MichaelCurrin](https://github.com/MichaelCurrin/MichaelCurrin/) repo where this README lives
 - GitHub topic: [profile-readme](https://github.com/topics/profile-readme)
