@@ -8,10 +8,10 @@ I love to build websites and automate tasks using the power of Python or JavaScr
 ### Blogs and writing 📜 
 
 [![dev.to - @MichaelCurrin](https://img.shields.io/static/v1?label=dev.to&message=%40MichaelCurrin&color=2bbc8a&logo=dev.to&logoColor=white)](https://dev.to/michaelcurrin)
-[![Coding blog GH Pages](https://img.shields.io/static/v1?label=blog&message=MichaelCurrin.github.io/coding-blog/&color=2bbc8a)](https://michaelcurrin.github.io/coding-blog/)
-[![Dev Cheatsheets](https://img.shields.io/static/v1?label=site&message=MichaelCurrin.github.io/dev-cheatsheets/&color=2bbc8a)](https://michaelcurrin.github.io/dev-cheatsheets/)
-[![Code Cookbook](https://img.shields.io/static/v1?label=site&message=MichaelCurrin.github.io/code-cookbook/&color=2bbc8a)](https://michaelcurrin.github.io/code-cookbook/)
-[![Learn to Code](https://img.shields.io/static/v1?label=repo&message=MichaelCurrin/learn-to-code&color=2bbc8a&logo=github)](https://github.com/MichaelCurrin/learn-to-code)
+[![MichaelCurrin.github.io - Coding Blog](https://img.shields.io/badge/MichaelCurrin.github.io-Coding_Blog-2bbc8a)](https://michaelcurrin.github.io/coding-blog/)
+[![MichaelCurrin.github.io - Dev Cheatsheets](https://img.shields.io/badge/MichaelCurrin.github.io-Dev_Cheatsheets-2bbc8a)](https://michaelcurrin.github.io/dev-cheatsheets/)
+[![MichaelCurrin.github.io - Code Cookbook](https://img.shields.io/badge/MichaelCurrin.github.io-Code_Cookbook-2bbc8a)](https://michaelcurrin.github.io/code-cookbook/)
+[![MichaelCurrin - learn-to-code](https://img.shields.io/static/v1?label=MichaelCurrin&message=learn-to-code&color=2bbc8a&logo=github)](https://github.com/MichaelCurrin/learn-to-code)
 
 ### Skills 🎓
 
