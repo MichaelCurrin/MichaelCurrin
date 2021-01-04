@@ -5,6 +5,7 @@ I am a Senior Software Engineer at 2U with fullstack skills.
 
 I love to build websites and automate tasks using the power of Python or JavaScript or another tool that is right for the job. I think Go might be the next big thing. I like to teach and learn from others both at community events and online.
 
+
 ### Blogs and writing 📜 
 
 [![dev.to - @MichaelCurrin](https://img.shields.io/static/v1?label=dev.to&message=%40MichaelCurrin&color=2bbc8a&logo=dev.to&logoColor=white)](https://dev.to/michaelcurrin)
@@ -12,6 +13,7 @@ I love to build websites and automate tasks using the power of Python or JavaScr
 [![MichaelCurrin.github.io - Dev Cheatsheets](https://img.shields.io/badge/MichaelCurrin.github.io-Dev_Cheatsheets-2bbc8a)](https://michaelcurrin.github.io/dev-cheatsheets/)
 [![MichaelCurrin.github.io - Code Cookbook](https://img.shields.io/badge/MichaelCurrin.github.io-Code_Cookbook-2bbc8a)](https://michaelcurrin.github.io/code-cookbook/)
 [![MichaelCurrin - learn-to-code](https://img.shields.io/static/v1?label=MichaelCurrin&message=learn-to-code&color=2bbc8a&logo=github)](https://github.com/MichaelCurrin/learn-to-code)
+
 
 ### Skills 🎓
 
@@ -36,6 +38,7 @@ Python is my first love and preferred language - see my [Python repos on GitHub]
 ![AWS](https://img.shields.io/badge/Tools-AWS-2bbc8a?logo=amazon-aws&logoColor=white)
 ![Datadog](https://img.shields.io/badge/Tools-Datadog-2bbc8a?logo=datadog&logoColor=white)
 
+
 ### I’m currently learning 🌱
 
 ![Go](https://img.shields.io/badge/Code-Go-2bbc8a?logo=go&logoColor=white)
@@ -47,13 +50,13 @@ Python is my first love and preferred language - see my [Python repos on GitHub]
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelCurrin&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"
     title="Top languages" alt="Top languages" />
+
 <img src="https://github-readme-stats.vercel.app/api?username=MichaelCurrin&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"
     title="Profile stats" alt="Profile stats" />
+
 </a>
 
-The `S` score is better than `A+` 🤷‍♂️. 
-
-Stats generated using [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats).
+The `S` score means "Top 1%" and is better than `A+`. Stats generated using [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats).
 
 
 ### Projects 💼
@@ -83,6 +86,7 @@ Here are projects or ideas which I have been working on in the last few months.
 - How can I use GitHub projects to manage my projects at a high-level or just bookmark repos and gists there? Rather than maintaining a list.
 
 </details>
+
 
 ### What is this README profile thing? 🤔
 
