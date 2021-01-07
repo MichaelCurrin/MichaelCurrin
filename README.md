@@ -73,7 +73,8 @@ Here are projects or ideas which I have been working on in the last few months.
 
 <details>
 <summary>Read more</summary>
-     
+
+- [![MichaelCurrin.github.io - Dev Resources](https://img.shields.io/badge/MichaelCurrin.github.io-Dev_Resources-2bbc8a)](https://michaelcurrin.github.io/dev-resources/)
 - Always writing and improving on [Dev Cheatsheets](https://github.com/MichaelCurrin/dev-cheatsheets/) and [Code Cookbook](https://github.com/MichaelCurrin/code-cookbook)
 - Writing more and better blog posts
 - Improving my [Badge generator](https://github.com/MichaelCurrin/badge-generator) project 
