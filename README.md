@@ -8,15 +8,11 @@ I love to build websites and automate tasks using the power of Python or JavaScr
 
 ### Blogs and writing 📜 
 
-<div align="center">
-
 [![dev.to - @MichaelCurrin](https://img.shields.io/static/v1?label=dev.to&message=%40MichaelCurrin&color=2bbc8a&logo=dev.to&logoColor=white)](https://dev.to/michaelcurrin)
 [![MichaelCurrin.github.io - Coding Blog](https://img.shields.io/badge/MichaelCurrin.github.io-Coding_Blog-2bbc8a)](https://michaelcurrin.github.io/coding-blog/)
 [![MichaelCurrin.github.io - Dev Cheatsheets](https://img.shields.io/badge/MichaelCurrin.github.io-Dev_Cheatsheets-2bbc8a)](https://michaelcurrin.github.io/dev-cheatsheets/)
 [![MichaelCurrin.github.io - Code Cookbook](https://img.shields.io/badge/MichaelCurrin.github.io-Code_Cookbook-2bbc8a)](https://michaelcurrin.github.io/code-cookbook/)
 [![MichaelCurrin - learn-to-code](https://img.shields.io/static/v1?label=MichaelCurrin&message=learn-to-code&color=2bbc8a&logo=github)](https://github.com/MichaelCurrin/learn-to-code)
-
-</div>
 
 I'm also active on Jekyll Forums - see my profile [@MichaelCurrin](https://talk.jekyllrb.com/u/michaelcurrin/).
 
@@ -24,8 +20,6 @@ I'm also active on Jekyll Forums - see my profile [@MichaelCurrin](https://talk.
 ### Skills 🎓
 
 Python is my first love and preferred language - see my [Python repos on GitHub](https://github.com/MichaelCurrin?tab=repositories&q=&type=&language=python). My experience covers backend (databases, APIs), frontend (webpage design and JS), security, containers, automated tests and deployment pipelines.
-
-<div align="center">
 
 ![Linux](https://img.shields.io/badge/OS-Linux-2bbc8a?logo=linux&logoColor=white)
 ![macOS](https://img.shields.io/badge/OS-macOS-2bbc8a?logo=apple&logoColor=white)
@@ -45,8 +39,6 @@ Python is my first love and preferred language - see my [Python repos on GitHub]
 ![Netlify](https://img.shields.io/badge/Tools-Netlify-2bbc8a?logo=netlify&logoColor=white)
 ![AWS](https://img.shields.io/badge/Tools-AWS-2bbc8a?logo=amazon-aws&logoColor=white)
 ![Datadog](https://img.shields.io/badge/Tools-Datadog-2bbc8a?logo=datadog&logoColor=white)
-
-</div>
 
 
 ### I’m currently learning 🌱
