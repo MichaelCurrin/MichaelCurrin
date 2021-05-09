@@ -1,5 +1,5 @@
 ## Hi, I am a software maker
-> I am a "Data genie" and "open sourcerer"
+> Also a "Data genie" and "open sourcerer"
 
 <!-- TODO move info to my blog or portfolio site -->
 
