@@ -1,9 +1,14 @@
 ## Hi, I am a software maker
 > Also a "Data genie" and "open sourcerer"
 
-I'm a Senior Software Engineer in South Africa, working in online education. I build a lot of projects for fun with Python, JavaScript, Jekyll and more. A big fan of elegant designs and static site generators.
+I'm a Senior Software Engineer in South Africa, working in online education. I build a lot of projects for fun with Python, JavaScript, Jekyll and more. A big fan of elegant designs, clean code, and static site generators.
+
+My homepage is [michaelcurrin.github.io](https://michaelcurrin.github.io/).
+
 
 ### Blogs and writing 📜 
+
+I've very active, writing content daily to at least one of these.
 
 [![dev.to - @MichaelCurrin](https://img.shields.io/static/v1?label=dev.to&message=%40MichaelCurrin&color=2bbc8a&logo=dev.to&logoColor=white)](https://dev.to/michaelcurrin)
 [![MichaelCurrin.github.io - Coding Blog](https://img.shields.io/badge/MichaelCurrin.github.io-Coding_Blog-2bbc8a)](https://michaelcurrin.github.io/coding-blog/)
@@ -80,10 +85,9 @@ Here are projects or ideas which I have been working on in the last few months.
 <details>
 <summary>Read more</summary>
 
-- [![MichaelCurrin.github.io - Dev Resources](https://img.shields.io/badge/MichaelCurrin.github.io-Dev_Resources-2bbc8a)](https://michaelcurrin.github.io/dev-resources/)
 - Always writing and improving on [Dev Cheatsheets](https://github.com/MichaelCurrin/dev-cheatsheets/) and [Code Cookbook](https://github.com/MichaelCurrin/code-cookbook)
 - Writing more and better blog posts
-- Improving my [Badge generator](https://github.com/MichaelCurrin/badge-generator) project 
+- Improving my [Badge generator](https://github.com/MichaelCurrin/badge-generator) project.
 - Icons
      - How can I use this in my website projects? As external source but also I can download the icons I care about as a central reference https://simpleicons.org/ Add it to my cheatsheats - including color for eahc
      - Compare with GH Topic icons which are more detailed. [repo](https://github.com/github/explore/tree/master/topics)
