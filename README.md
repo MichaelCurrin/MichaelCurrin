@@ -1,12 +1,7 @@
 ## Hi, I am a software maker
 > Also a "Data genie" and "open sourcerer"
 
-<!-- TODO move info to my blog or portfolio site -->
-
-I am a Senior Software Engineer at [2U](https://2u.com/) - a company which provides students worldwide with online degrees. I use my fullstack experience in the _Marketing Systems_ team to maintain the websites where prospective students sign up.
-
-I love to build websites and automate tasks using the power of Python or JavaScript or another tool that is right for the job. I think Go might be the next big thing to know. I like to teach and learn from others both at community events and online.
-
+I'm a Senior Software Engineer in South Africa, working in online education. I build a lot of projects for fun with Python, JavaScript, Jekyll and more. A big fan of elegant designs and static site generators.
 
 ### Blogs and writing 📜 
 
