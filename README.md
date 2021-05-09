@@ -55,6 +55,8 @@ Python is my first love and preferred language - see my [Python repos on GitHub]
 
 ### GitHub Stats
 
+I've been writing code daily for a few years, so have a ridiculous amount of repos and commits. Here are some stats from the GitHub Readme Stats project for my profile.
+
 <a href="https://github.com/MichaelCurrin">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelCurrin&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"
