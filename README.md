@@ -30,11 +30,13 @@ Python is my first love and preferred language - see my [Python repos on GitHub]
 
 ![Bash](https://img.shields.io/badge/Code-Bash-2bbc8a?logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/Code-Python-2bbc8a?logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Code-Flask-2bbc8a?logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Code-Node.js-2bbc8a?logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-2bbc8a?logo=javascript&logoColor=white)
+
 ![Jekyll](https://img.shields.io/badge/Code-Jekyll-2bbc8a?logo=jekyll&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-2bbc8a?logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/Database-MongoDB-2bbc8a?logo=mongodb&logoColor=white)
-![Node.js](https://img.shields.io/badge/Code-Node.js-2bbc8a?logo=node.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-2bbc8a?logo=javascript&logoColor=white)
 
 ![Docker](https://img.shields.io/badge/Tools-Docker-2bbc8a?logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Tools-Kubernetes-2bbc8a?logo=kubernetes&logoColor=white)
