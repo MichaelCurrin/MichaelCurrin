@@ -3,7 +3,7 @@
 
 I'm a Senior Software Engineer in South Africa, working in online education. I build a lot of projects for fun with Python, JavaScript, Jekyll and more. A big fan of elegant designs, clean code, and static site generators.
 
-My homepage is [michaelcurrin.github.io](https://michaelcurrin.github.io/).
+My homepage is [MichaelCurrin.github.io](https://michaelcurrin.github.io/).
 
 
 ### Blogs and writing 📜 
