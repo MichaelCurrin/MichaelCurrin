@@ -25,34 +25,23 @@ I'm also active on Jekyll Forums - see my profile [@MichaelCurrin](https://talk.
 
 Python is my first love and preferred language - see my [Python repos on GitHub](https://github.com/MichaelCurrin?tab=repositories&q=&type=&language=python). My experience covers backend (databases, APIs), frontend (webpage design and JS), security, containers, automated tests and deployment pipelines.
 
-![Linux](https://img.shields.io/badge/OS-Linux-2bbc8a?logo=linux&logoColor=white)
-![macOS](https://img.shields.io/badge/OS-macOS-2bbc8a?logo=apple&logoColor=white)
-
-![Bash](https://img.shields.io/badge/Code-Bash-2bbc8a?logo=gnu-bash&logoColor=white)
-![Python](https://img.shields.io/badge/Code-Python-2bbc8a?logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Code-Flask-2bbc8a?logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Code-Node.js-2bbc8a?logo=node.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-2bbc8a?logo=javascript&logoColor=white)
-
-![Jekyll](https://img.shields.io/badge/Code-Jekyll-2bbc8a?logo=jekyll&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-2bbc8a?logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/Database-MongoDB-2bbc8a?logo=mongodb&logoColor=white)
-
-![Docker](https://img.shields.io/badge/Tools-Docker-2bbc8a?logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Tools-Kubernetes-2bbc8a?logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Tools-Terraform-2bbc8a?logo=terraform&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/Tools-GitHub_Actions-2bbc8a?logo=github-actions&logoColor=white)
-![Netlify](https://img.shields.io/badge/Tools-Netlify-2bbc8a?logo=netlify&logoColor=white)
-![AWS](https://img.shields.io/badge/Tools-AWS-2bbc8a?logo=amazon-aws&logoColor=white)
-![Datadog](https://img.shields.io/badge/Tools-Datadog-2bbc8a?logo=datadog&logoColor=white)
+| Area | Skill |
+|--- | --- |
+|OS | ![Linux](https://img.shields.io/badge/OS-Linux-2bbc8a?logo=linux&logoColor=white) ![macOS](https://img.shields.io/badge/OS-macOS-2bbc8a?logo=apple&logoColor=white) |
+| Languages | ![Bash](https://img.shields.io/badge/Code-Bash-2bbc8a?logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/Code-Python-2bbc8a?logo=python&logoColor=white) ![Node.js](https://img.shields.io/badge/Code-Node.js-2bbc8a?logo=node.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/Code-JavaScript-2bbc8a?logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/Code-TypeScript-2bbc8a?logo=typescript&logoColor=white) |
+| Frameworks | ![Flask](https://img.shields.io/badge/Code-Flask-2bbc8a?logo=flask&logoColor=white) ![Vue](https://img.shields.io/badge/Code-Vue-2bbc8a?logo=vue.js&logoColor=white) ![React](https://img.shields.io/badge/Code-React-2bbc8a?logo=react&logoColor=white) ![Jekyll](https://img.shields.io/badge/Code-Jekyll-2bbc8a?logo=jekyll&logoColor=white) |
+| Databases | ![PostgreSQL](https://img.shields.io/badge/DB-PostgreSQL-2bbc8a?logo=postgresql&logoColor=white) [![ SQLite](https://img.shields.io/badge/DB-SQLite-2bbc8a?logo=sqlite&logoColor=white)](https://www.sqlite.org/index.html) ![MongoDB](https://img.shields.io/badge/DB-MongoDB-2bbc8a?logo=mongodb&logoColor=white) |
+| Infastructure | ![Docker](https://img.shields.io/badge/Tools-Docker-2bbc8a?logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Tools-Kubernetes-2bbc8a?logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/Tools-Terraform-2bbc8a?logo=terraform&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/Tools-GitHub_Actions-2bbc8a?logo=github-actions&logoColor=white) ![Netlify](https://img.shields.io/badge/Tools-Netlify-2bbc8a?logo=netlify&logoColor=white) ![AWS](https://img.shields.io/badge/Tools-AWS-2bbc8a?logo=amazon-aws&logoColor=white) ![Datadog](https://img.shields.io/badge/Tools-Datadog-2bbc8a?logo=datadog&logoColor=white) |
 
 
-### I’m currently learning 🌱
+### I’m currently learning more about 🌱
 
-![Go](https://img.shields.io/badge/Code-Go-2bbc8a?logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/Code-TypeScript-2bbc8a?logo=typescript&logoColor=white)
-![Vue](https://img.shields.io/badge/Code-Vue-2bbc8a?logo=vue.js&logoColor=white)
-![React](https://img.shields.io/badge/Code-React-2bbc8a?logo=react&logoColor=white)
+- Go
+- Vue
+- React
+- TypeScript
+- Flask
+- Django
 
 
 ### GitHub Stats
