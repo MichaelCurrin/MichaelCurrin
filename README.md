@@ -20,9 +20,28 @@ I'm also active on Jekyll Forums - see my profile [@MichaelCurrin](https://talk.
 
 ### Skills 🎓
 
-Python is my first love and preferred language - see my [Python repos on GitHub](https://github.com/MichaelCurrin?tab=repositories&q=&type=&language=python). My experience covers backend (databases, APIs), frontend (webpage design and JS), security, containers, automated tests and deployment pipelines.
+Python is my first love and preferred language - see my [Python repos on GitHub](https://github.com/MichaelCurrin?tab=repositories&q=&type=&language=python). 
 
-| Area | Skill |
+My experience covers these topics:
+
+- fullstack web dev
+    - backend (databases, web APIs)
+    - frontend (webpage design and JS)
+- security
+- DevOps
+    - containers
+    - infrastructure management 
+    - deployment pipelines
+- automated tests (including TDD, BDD, and monitoring and observability)
+- architecture 
+- data science
+    - web scraping
+    - data visualization 
+    - Machine Learning 
+
+And more specifically, the tools I use.
+
+| Area | Tool |
 |--- | --- |
 |OS | ![Linux](https://img.shields.io/badge/OS-Linux-2bbc8a?logo=linux&logoColor=white) ![macOS](https://img.shields.io/badge/OS-macOS-2bbc8a?logo=apple&logoColor=white) |
 | Languages | ![Bash](https://img.shields.io/badge/Code-Bash-2bbc8a?logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/Code-Python-2bbc8a?logo=python&logoColor=white) ![Node.js](https://img.shields.io/badge/Code-Node.js-2bbc8a?logo=node.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/Code-JavaScript-2bbc8a?logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/Code-TypeScript-2bbc8a?logo=typescript&logoColor=white) |
