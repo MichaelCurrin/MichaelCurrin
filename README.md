@@ -60,9 +60,32 @@ And more specifically, the tools I use.
 - Django
 
 
+## Open source contrbutions
+
+> Merged Pull Requests created by MichaelCurrin in public repos of other users
+
+Total: 169
+
+Last 6 months:
+
+Month   | PR
+---     | ---
+2021-09 |   6
+2021-08 |  12
+2021-07 |  17
+2021-06 |  20
+2021-04 |   8
+2021-03 |   1
+
+Updated Sept 20th, 2021.
+
+Generated using a report in my [aggre-git](https://github.com/MichaelCurrin/aggre-git) repo.
+
+View the source data yourself in a GitHub search - [URL](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3AMichaelCurrin+-user%3AMichaelCurrin+-user%3A2uinc+sort%3Acreated-desc).
+
 ### GitHub Stats
 
-I've been writing code daily for a few years, so have a ridiculous amount of repos and commits. Here are some stats from the GitHub Readme Stats project for my profile.
+I've been writing code daily for a few years, so have a growing ridiculous number of repos (over 200, mostly not forks) and number commits. Here are some stats from the GitHub Readme Stats project for my profile.
 
 <a href="https://github.com/MichaelCurrin">
 
