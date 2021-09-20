@@ -68,7 +68,7 @@ Total: 169
 
 Last 6 months:
 
-Month   | PR
+Month   | PRs
 ---     | ---
 2021-09 |   6
 2021-08 |  12
