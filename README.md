@@ -64,7 +64,7 @@ And more specifically, the tools I use.
 
 > Merged Pull Requests created by MichaelCurrin in public repos of other users
 
-Total: 169
+Total: 135
 
 Last 6 months:
 
@@ -77,7 +77,7 @@ Month   | PRs
 2021-04 |   8
 2021-03 |   1
 
-Updated Sept 20th, 2021.
+Updated Oct 2021.
 
 Generated using a report in my [aggre-git](https://github.com/MichaelCurrin/aggre-git) repo.
 
