@@ -24,9 +24,9 @@ Python is my first love and preferred language - see my [Python repos on GitHub]
 
 My experience covers these topics:
 
-- fullstack web dev
-    - backend (databases, web APIs)
-    - frontend (webpage design and JS)
+- Fullstack web dev
+    - Backend (databases, server-side APIs and page rendering, static sites)
+    - Frontend (webpage design, CSS, JS, Single-Page Apps)
     - CMS tools
 - Security
 - DevOps
@@ -54,11 +54,14 @@ And, more specifically, the tools I use:
 | Databases | ![PostgreSQL](https://img.shields.io/badge/DB-PostgreSQL-2bbc8a?logo=postgresql&logoColor=white) [![ SQLite](https://img.shields.io/badge/DB-SQLite-2bbc8a?logo=sqlite&logoColor=white)](https://www.sqlite.org/index.html) ![MongoDB](https://img.shields.io/badge/DB-MongoDB-2bbc8a?logo=mongodb&logoColor=white) |
 | Infastructure | ![Docker](https://img.shields.io/badge/Tools-Docker-2bbc8a?logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Tools-Kubernetes-2bbc8a?logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/Tools-Terraform-2bbc8a?logo=terraform&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/Tools-GitHub_Actions-2bbc8a?logo=github-actions&logoColor=white) ![Netlify](https://img.shields.io/badge/Tools-Netlify-2bbc8a?logo=netlify&logoColor=white) ![AWS](https://img.shields.io/badge/Tools-AWS-2bbc8a?logo=amazon-aws&logoColor=white) ![Datadog](https://img.shields.io/badge/Tools-Datadog-2bbc8a?logo=datadog&logoColor=white) |
 
+I've also done some programming in Rust, C, Arduino, Deno...
+
 
 ### I’m currently learning more about 🌱
 
 - Go
 - Vue
+- More Python
 
 <!--
 - React
