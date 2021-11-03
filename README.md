@@ -26,13 +26,13 @@ My experience covers these topics:
 
 - Fullstack web dev
     - Backend (databases, server-side APIs and page rendering, static sites)
-    - Frontend (webpage design, CSS, JS, Single-Page Apps)
+    - Frontend (HTML, CSS, JS, Single-Page Apps)
     - CMS tools
 - Security
 - DevOps
-    - containers
-    - infrastructure management 
-    - deployment pipelines
+    - Containers
+    - Infrastructure management 
+    - Deployment pipelines
 - Automated tests (including TDD, BDD, and monitoring and observability)
 - Architecture 
 - Data science
@@ -52,7 +52,7 @@ And, more specifically, the tools I use:
 | Languages | ![Bash](https://img.shields.io/badge/Code-Bash-2bbc8a?logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/Code-Python-2bbc8a?logo=python&logoColor=white) ![Node.js](https://img.shields.io/badge/Code-Node.js-2bbc8a?logo=node.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/Code-JavaScript-2bbc8a?logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/Code-TypeScript-2bbc8a?logo=typescript&logoColor=white) |
 | Frameworks | ![Flask](https://img.shields.io/badge/Code-Flask-2bbc8a?logo=flask&logoColor=white) ![Vue](https://img.shields.io/badge/Code-Vue-2bbc8a?logo=vue.js&logoColor=white) ![React](https://img.shields.io/badge/Code-React-2bbc8a?logo=react&logoColor=white) ![Jekyll](https://img.shields.io/badge/Code-Jekyll-2bbc8a?logo=jekyll&logoColor=white) |
 | Databases | ![PostgreSQL](https://img.shields.io/badge/DB-PostgreSQL-2bbc8a?logo=postgresql&logoColor=white) [![ SQLite](https://img.shields.io/badge/DB-SQLite-2bbc8a?logo=sqlite&logoColor=white)](https://www.sqlite.org/index.html) ![MongoDB](https://img.shields.io/badge/DB-MongoDB-2bbc8a?logo=mongodb&logoColor=white) |
-| Infastructure | ![Docker](https://img.shields.io/badge/Tools-Docker-2bbc8a?logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Tools-Kubernetes-2bbc8a?logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/Tools-Terraform-2bbc8a?logo=terraform&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/Tools-GitHub_Actions-2bbc8a?logo=github-actions&logoColor=white) ![Netlify](https://img.shields.io/badge/Tools-Netlify-2bbc8a?logo=netlify&logoColor=white) ![AWS](https://img.shields.io/badge/Tools-AWS-2bbc8a?logo=amazon-aws&logoColor=white) ![Datadog](https://img.shields.io/badge/Tools-Datadog-2bbc8a?logo=datadog&logoColor=white) |
+| Infastructure | ![Docker](https://img.shields.io/badge/Containers-Docker-2bbc8a?logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Containers-Kubernetes-2bbc8a?logo=kubernetes&logoColor=white) ![Buildkite](https://img.shields.io/badge/CICD-Buildkite-2bbc8a?logo=buildkite&logoColor=white) ![Terraform](https://img.shields.io/badge/Infra-Terraform-2bbc8a?logo=terraform&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/CICD-GitHub_Actions-2bbc8a?logo=github-actions&logoColor=white) ![Netlify](https://img.shields.io/badge/CICD-Netlify-2bbc8a?logo=netlify&logoColor=white) ![AWS](https://img.shields.io/badge/Tools-AWS-2bbc8a?logo=amazon-aws&logoColor=white) ![Datadog](https://img.shields.io/badge/Monitoring-Datadog-2bbc8a?logo=datadog&logoColor=white) |
 
 I've also done some programming in MySQL, Rust, C, Arduino, Deno...
 
