@@ -27,19 +27,24 @@ My experience covers these topics:
 - fullstack web dev
     - backend (databases, web APIs)
     - frontend (webpage design and JS)
-- security
+    - CMS tools
+- Security
 - DevOps
     - containers
     - infrastructure management 
     - deployment pipelines
-- automated tests (including TDD, BDD, and monitoring and observability)
-- architecture 
-- data science
-    - web scraping
-    - data visualization 
+- Automated tests (including TDD, BDD, and monitoring and observability)
+- Architecture 
+- Data science
+    - Web scraping
+    - Data visualization 
     - Machine Learning 
+- Marketing
+    - Social media APIs and Google Ads API
+    - SEO
+    - Page performance and conversion rate analysis
 
-And more specifically, the tools I use.
+And, more specifically, the tools I use:
 
 | Area | Tool |
 |--- | --- |
