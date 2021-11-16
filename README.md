@@ -99,16 +99,16 @@ I've been writing code daily for a few years, so have a growing ridiculous numbe
 <a href="https://github.com/MichaelCurrin" alt="Go to GitHub profile">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelCurrin&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"
-    title="Top languages" alt="Top languages" />
+    alt="Top languages card" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=michaelcurrin" title="Streak stats" alt="Streak stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=michaelcurrin" alt="Streak stats card" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=MichaelCurrin&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"
-    title="Profile stats" alt="Profile stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=MichaelCurrin&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" 
+    alt="Profile stats card" />
 
 </a>
 
-The `S` score means "Top 1%" and is better than `A+`. Stats generated using [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats).
+The `S` score means "Top 1%" and is better than `A+`. Stats generated using [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) service.
 
 
 ### Projects 💼
