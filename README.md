@@ -75,20 +75,20 @@ I've also done some programming in MySQL, Rust, C, Arduino, Deno...
 
 > Merged Pull Requests created by MichaelCurrin in public repos of other users
 
-Total: 134
+Total: 140
 
 Last 6 months:
 
 Month   | PRs
 ---     | ---
+2021-12 |   1
+2021-11 |   6
 2021-10 |   4
 2021-09 |  11
 2021-08 |  12
 2021-07 |  17
-2021-06 |  20
-2021-04 |   8
 
-Generated using a report in my [aggre-git](https://github.com/MichaelCurrin/aggre-git) repo.
+Generated as a report from my my [aggre-git](https://github.com/MichaelCurrin/aggre-git) tool.
 
 View the source data yourself in a GitHub search - [URL](https://github.com/pulls?q=is%3Apr+is%3Amerged+is%3Apublic+author%3AMichaelCurrin+-user%3AMichaelCurrin+sort%3Acreated-desc+).
 
@@ -97,15 +97,11 @@ View the source data yourself in a GitHub search - [URL](https://github.com/pull
 I've been writing code daily for a few years, so have a growing ridiculous number of repos (over 200, mostly not forks) and number commits. Here are some stats from the GitHub Readme Stats project for my profile.
 
 <a href="https://github.com/MichaelCurrin" alt="Go to GitHub profile">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelCurrin&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"
-    alt="Top languages card" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=michaelcurrin" alt="Streak stats card" />
-
-<img src="https://github-readme-stats.vercel.app/api?username=MichaelCurrin&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" 
-    alt="Profile stats card" />
-
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelCurrin&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"
+        alt="Top languages card" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=michaelcurrin" alt="Streak stats card" />
+    <img src="https://github-readme-stats.vercel.app/api?username=MichaelCurrin&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" 
+        alt="Profile stats card" />
 </a>
 
 The `S` score means "Top 1%" and is better than `A+`. Stats generated using [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) service.
