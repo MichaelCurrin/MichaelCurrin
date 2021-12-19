@@ -15,7 +15,7 @@ Area | Links
 Blog writing | [![dev.to - @MichaelCurrin](https://img.shields.io/static/v1?label=dev.to&message=%40MichaelCurrin&color=2bbc8a&logo=dev.to&logoColor=white)](https://dev.to/michaelcurrin) [![MichaelCurrin.github.io - Coding Blog](https://img.shields.io/badge/MichaelCurrin.github.io-Coding_Blog-2bbc8a)](https://michaelcurrin.github.io/coding-blog/)
 Reference and learning | [![MichaelCurrin.github.io - Dev Resources](https://img.shields.io/badge/MichaelCurrin.github.io-Dev_Resources-2bbc8a)](https://michaelcurrin.github.io/dev-resources/) [![MichaelCurrin.github.io - Dev Cheatsheets](https://img.shields.io/badge/MichaelCurrin.github.io-Dev_Cheatsheets-2bbc8a)](https://michaelcurrin.github.io/dev-cheatsheets/) [![MichaelCurrin.github.io - Code Cookbook](https://img.shields.io/badge/MichaelCurrin.github.io-Code_Cookbook-2bbc8a)](https://michaelcurrin.github.io/code-cookbook/) [![MichaelCurrin - learn-to-code](https://img.shields.io/static/v1?label=MichaelCurrin&message=learn-to-code&color=2bbc8a&logo=github)](https://github.com/MichaelCurrin/learn-to-code)
 
-I'm also active on Jekyll Forums - see my profile [@MichaelCurrin](https://talk.jekyllrb.com/u/michaelcurrin/).
+I'm also active on Jekyll Forums - see my profile [@MichaelCurrin](https://talk.jekyllrb.com/u/MichaelCurrin/summary).
 
 
 ### Skills 🎓
