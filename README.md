@@ -18,33 +18,24 @@ Reference and learning | [![MichaelCurrin.github.io - Dev Resources](https://img
 I'm also active on Jekyll Forums - see my profile [@MichaelCurrin](https://talk.jekyllrb.com/u/MichaelCurrin/summary).
 
 
-### Skills 🎓
+### Tools and skills 🎓
 
 Python is my first love and preferred language - see my [Python repos on GitHub](https://github.com/MichaelCurrin?tab=repositories&q=&type=&language=python). 
 
-My experience covers these topics:
+- Backend (render HTML and build REST APIs)
+- Frontend (HTML, CSS, JavaScript)
+- Python packages (Requests, Pandas, Django, Flask)
+- JavaScript packages (Express, Vue, React, TypeScript, ApexCharts)
+- Shell scripting (Linux and macOS)
+- Software testing (TDD, BDD, Selenium browser tests)
+- Monitoring and observability (Datadog, New Relic, and PageDuty)
+- Architect and build AWS cloud infrastructure using Terraform (SQS queues, Postgres, MongoDB, CloudFront, DNS, EC2, and Lambdas)
+- Containerized services (Docker and Kubernetes)
+- Deployment pipelines (Netlify, GitHub Actions, Buildkite, Jenkins)
+- Data Science (web scraping, data visualization, machine learning)
+- Write documentation and make documentation sites 
 
-- Fullstack web dev
-    - Backend (databases, server-side APIs and page rendering, static sites)
-    - Frontend (HTML, CSS, JS, Single-Page Apps)
-    - CMS tools
-- Security
-- DevOps
-    - Containers
-    - Infrastructure management 
-    - Deployment pipelines
-- Automated tests (including TDD, BDD, and monitoring and observability)
-- Architecture 
-- Data science
-    - Web scraping
-    - Data visualization 
-    - Machine Learning 
-- Marketing
-    - Social media APIs and Google Ads API
-    - SEO
-    - Page performance and conversion rate analysis
-
-And, more specifically, the tools I use:
+More details on the tools:
 
 | Area           | Tool            |
 |---             | ---             |
@@ -102,31 +93,9 @@ The `S` score means "Top 1%" and is better than `A+`. Stats generated using [Git
 
 ### Projects 💼
 
-If you're interested to see my showcase of some my best projects, see my Pinned Repositories a bit further down on my profile.
-
 I like to make quickstarts which can be used as templates to make websites, such as with React, Vue, MkDocs, Jekyll or Docsify. See my [quickstart](https://github.com/MichaelCurrin?tab=repositories&q=quickstart&type=&language=) projects on GitHub.
 
-My gists are available on a one-page site: https://michaelcurrin.github.io/gist-viewer/
-
-### I'm currently working on 🔭 
-
-Here are projects or ideas which I have been working on in the last few months.
-
-<details>
-<summary>Read more</summary>
-
-- Always writing and improving on [Dev Cheatsheets](https://github.com/MichaelCurrin/dev-cheatsheets/) and [Code Cookbook](https://github.com/MichaelCurrin/code-cookbook)
-- Writing more and better blog posts
-- Improving my [Badge generator](https://github.com/MichaelCurrin/badge-generator) project.
-- Icons
-     - How can I use this in my website projects? As external source but also I can download the icons I care about as a central reference https://simpleicons.org/ Add it to my cheatsheats - including color for eahc
-     - Compare with GH Topic icons which are more detailed. [repo](https://github.com/github/explore/tree/master/topics)
-     - Maybe make a generator which can generate both.
-- Better Jekyll sites and designing websites
-- Make a [Self-updating README](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/) - based on [github.com/simonw/simonw](https://github.com/simonw/simonw)
-- How can I use GitHub projects to manage my projects at a high-level or just bookmark repos and gists there? Rather than maintaining a list.
-
-</details>
+My gists are available on a one-page site - [Gist Viewer](https://michaelcurrin.github.io/gist-viewer/)
 
 
 ### What is this README profile thing? 🤔
