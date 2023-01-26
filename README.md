@@ -1,7 +1,7 @@
 ## Hi, I am a software maker
 > Also a "Data genie" and "open sourcerer"
 
-I'm a Senior Software Engineer in South Africa, working in online education. I build a lot of projects for fun with Python, JavaScript, Jekyll and more. A big fan of elegant designs, clean code, and static site generators.
+I'm a Senior Software Engineer working in Amsterdam, working in sustainable energy. I build a lot of projects for fun with Python, JavaScript, Jekyll and more. A big fan of elegant designs, clean code, and static site generators.
 
 My profile links are here - [bio.link/michaelcurrin](https://bio.link/michaelcurrin).
 
@@ -55,7 +55,10 @@ I've also done some programming in MySQL, Rust, C, Arduino, Deno...
 - Python
 
 
+
 ## Open source contrbutions
+
+<!--
 
 > Merged Pull Requests created by MichaelCurrin in public repos of other users
 
@@ -76,9 +79,11 @@ Generated as a report from my my [aggre-git](https://github.com/MichaelCurrin/ag
 
 View the source data yourself in a GitHub search - [URL](https://github.com/pulls?q=is%3Apr+is%3Amerged+is%3Apublic+author%3AMichaelCurrin+-user%3AMichaelCurrin+sort%3Acreated-desc+).
 
+-->
+
 ### GitHub Stats
 
-I've been writing code daily for a few years, so have a growing ridiculous number of repos (over 200, mostly not forks) and number commits. Here are some stats from the GitHub Readme Stats project for my profile.
+Here are some stats from the GitHub Readme Stats project for my profile.
 
 <a href="https://github.com/MichaelCurrin" alt="Go to GitHub profile">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelCurrin&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"
