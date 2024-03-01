@@ -1,7 +1,7 @@
 ## Hi, I am a software maker
 > Also a "Data genie" and "open sourcerer"
 
-I'm a Senior Software Engineer working in Amsterdam, working in sustainable energy. I build a lot of projects for fun with Python, JavaScript, Jekyll and more. A big fan of elegant designs, clean code, and static site generators.
+I'm a Senior Software Engineer working in Amsterdam. I build projects for fun with Python, JavaScript, Jekyll and more. A big fan of elegant designs, clean code, and static site generators.
 
 My profile links are here - [bio.link/michaelcurrin](https://bio.link/michaelcurrin).
 
