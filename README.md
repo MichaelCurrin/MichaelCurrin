@@ -1,7 +1,7 @@
 ## Hi, I am a software maker
 > Also a "Data genie" and "open sourcerer"
 
-I'm a Senior Software Engineer working in Amsterdam. I build projects for fun with Python, JavaScript, Jekyll and more. A big fan of elegant designs, clean code, and static site generators.
+I'm a Senior Software Engineer living Utrecht. I build projects for fun with Python, JavaScript, Jekyll, and more. A big fan of elegant designs, clean code, REST APIs, and static site generators.
 
 My profile links are here - [bio.link/michaelcurrin](https://bio.link/michaelcurrin).
 
@@ -46,14 +46,6 @@ More details on the tools:
 | Infrastructure | ![Docker](https://img.shields.io/badge/Containers-Docker-2bbc8a?logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Containers-Kubernetes-2bbc8a?logo=kubernetes&logoColor=white) ![Buildkite](https://img.shields.io/badge/CICD-Buildkite-2bbc8a?logo=buildkite&logoColor=white) ![Terraform](https://img.shields.io/badge/Infra-Terraform-2bbc8a?logo=terraform&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/CICD-GitHub_Actions-2bbc8a?logo=github-actions&logoColor=white) ![Netlify](https://img.shields.io/badge/CICD-Netlify-2bbc8a?logo=netlify&logoColor=white) ![AWS](https://img.shields.io/badge/Tools-AWS-2bbc8a?logo=amazon-aws&logoColor=white) ![Datadog](https://img.shields.io/badge/Monitoring-Datadog-2bbc8a?logo=datadog&logoColor=white) |
 
 I've also done some programming in MySQL, Rust, C, Arduino, Deno...
-
-
-### I’m currently learning more about 🌱
-
-- Go
-- Vue
-- Python
-
 
 
 ## Open source contrbutions
