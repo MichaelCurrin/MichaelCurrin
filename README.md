@@ -22,20 +22,16 @@ I'm also active on Jekyll Forums - see my profile [@MichaelCurrin](https://talk.
 
 Python is my first love and preferred language - see my [Python repos on GitHub](https://github.com/MichaelCurrin?tab=repositories&q=&type=&language=python). 
 
-- Backend (render HTML and build REST APIs)
-- Frontend (HTML, CSS, JavaScript)
-- Python packages (Requests, Pandas, Django, Flask)
-- JavaScript packages (Express, Vue, React, TypeScript, ApexCharts)
-- Shell scripting (Linux and macOS)
-- Software testing (TDD, BDD, Selenium browser tests)
-- Monitoring and observability (Datadog, New Relic, and PageDuty)
-- Architect and build AWS cloud infrastructure using Terraform (SQS queues, Postgres, MongoDB, CloudFront, DNS, EC2, and Lambdas)
-- Containerized services (Docker and Kubernetes)
-- Deployment pipelines (Netlify, GitHub Actions, Buildkite, Jenkins)
-- Data Science (web scraping, data visualization, machine learning)
-- Write documentation and make documentation sites 
+- 7 years in IT 
+- Backend development
+- Fullstack development
+- Bash scripting
+- Databases
+- Cloud infrastructure
+- DevOps 
+- Automated testing
 
-More details on the tools:
+Details on the tools I use:
 
 | Area           | Tool            |
 |---             | ---             |
