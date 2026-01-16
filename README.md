@@ -22,7 +22,7 @@ I'm also active on Jekyll Forums - see my profile [@MichaelCurrin](https://talk.
 
 Python is my first love and preferred language - see my [Python repos on GitHub](https://github.com/MichaelCurrin?tab=repositories&q=&type=&language=python). 
 
-- 7 years in IT 
+- in IT since 2017
 - Backend development
 - Fullstack development
 - Bash scripting
