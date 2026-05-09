@@ -3,12 +3,8 @@
 
 I'm a Senior Software Engineer living Utrecht. I build projects for fun with Python, JavaScript, Jekyll, and more. A big fan of elegant designs, clean code, REST APIs, and static site generators.
 
-My profile links are here - [bio.link/michaelcurrin](https://bio.link/michaelcurrin).
-
 
 ### Blogs and writing 📜 
-
-I've very active, writing content daily to at least one of these.
 
 Area | Links
 ---  | ---
