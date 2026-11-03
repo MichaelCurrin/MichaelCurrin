@@ -1,7 +1,13 @@
 ## Hi, I am a software maker
 > Also a "Data genie" and "open sourcerer"
 
-I'm a Senior Software Engineer living Utrecht. I build projects for fun with Python, JavaScript, Jekyll, and more. A big fan of elegant designs, clean code, REST APIs, and static site generators.
+I am a Senior Software Engineer with Backend and Fullstack experience.
+
+My first love is Python and my career is focused on Backend web development.
+
+I like to learn from others and to giving coaching to colleagues and aspiring developers. Whether through hackathons, conferences, blogs, or tech meetups.
+
+I build projects for fun with Python, JavaScript, Jekyll, and more. A big fan of elegant designs, clean code, REST APIs, and static site generators.
 
 <!-- If you like my writing or code, send me something on [Buy Me A Coffee](https://buymeacoffee.com/michaelcurrin). -->
 
