@@ -3,7 +3,7 @@
 
 I'm a Senior Software Engineer living Utrecht. I build projects for fun with Python, JavaScript, Jekyll, and more. A big fan of elegant designs, clean code, REST APIs, and static site generators.
 
-If you like my writing or code, send me something on [Buy Me A Coffee](https://buymeacoffee.com/michaelcurrin).
+<!-- If you like my writing or code, send me something on [Buy Me A Coffee](https://buymeacoffee.com/michaelcurrin). -->
 
 
 ### Blogs and writing 📜 
